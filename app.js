@@ -188,3 +188,31 @@ t1.from("#page1-content h1 span", {
 t1.to("#loader", {
   display: "none",
 });
+
+t1.from(".footheading h1 span", {
+  y: -100,
+  opacity: 0,
+  stagger: 0.2,
+  duration: 0.5,
+  delay: 0.5,
+});
+
+// function footerScroller() {
+//   window.onload = function () {
+//     // gsap.registerPlugin(ScrollTrigger);
+
+//     gsap.from(".footheading h1 span", {
+//       scrollTrigger: {
+//         trigger: "#footer",
+//         start: "top 90%",
+//         toggleActions: "play none none none",
+//         once: true,
+//       },
+//       y: -100,
+//       opacity: 0,
+//       stagger: 0.2,
+//       duration: 0.5,
+//     });
+//   };
+// }
+// footerScroller();
