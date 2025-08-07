@@ -5,7 +5,7 @@ Welcome to **REJOUICE®**, a visually rich, animate website clone inspired by th
 > 🔴 **Live Demo:** [Click here to view](https://rejouice-animation-website.vercel.app/)  
 ---
 
-##📸 Preview (https://github.com/sahil-Rathore10/Rejouice-Animation-website/blob/main/assets/preview.png)
+## ![📸 Website Preview](https://github.com/sahil-Rathore10/Rejouice-Animation-website/blob/main/assets/preview.png)
 
 ---
 
