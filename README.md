@@ -64,7 +64,7 @@ cd rejouice-clone
 ## 👨‍💻 Author
 Sahil Rathore
 
-🌐 GitHub Profile (https://github.com/sahil-Rathore10)
+🌐 ![GitHub Profile] (https://github.com/sahil-Rathore10)
 
 💼 Web Developer Intern | Passionate about frontend animations and interactive UIs
 
