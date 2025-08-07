@@ -3,8 +3,9 @@
 Welcome to **REJOUICE®**, a visually rich, animate website clone inspired by the official Rejouice agency site. This project was created to demonstrate scroll-based animations, hover interactions, creative layout structure, and responsive design using modern JavaScript libraries.
 
 > 🔴 **Live Demo:** [Click here to view](https://rejouice-animation-website.vercel.app/)  
-> 📸 Preview
-> (https://github.com/sahil-Rathore10/Rejouice-Animation-website/blob/main/assets/preview.png)
+---
+
+##📸 Preview (https://github.com/sahil-Rathore10/Rejouice-Animation-website/blob/main/assets/preview.png)
 
 ---
 
